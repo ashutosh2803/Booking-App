@@ -2,7 +2,7 @@
 ---
 ## Running the app
 
-To run the deployed app, visit 
+To run the deployed app, visit (not deployed yet)
 
 To run the app locally, 
 
@@ -13,6 +13,6 @@ To run the app locally,
     ### `cd ..`
     ### `npm start`
 
-![Booking App]()
+![Booking App](https://user-images.githubusercontent.com/40117155/230194344-7e8c4b61-b2b5-4844-9e5d-f10f21fb1300.png)
     
 If you liked my work, please give a star!⭐️
